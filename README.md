@@ -1,5 +1,5 @@
 <picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Chrysxlis&theme=road_trip">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Chrysxlis&theme=road_trip&pixelate_avatar=false&dithering=true">
 </picture>
 
 ## "Coding" is where I forge my own miracle.🌐
